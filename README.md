@@ -1,7 +1,7 @@
-# Test
-Idea Theorem Developer test
+# Idea Theorem Developer test
 
-To Run
--clone repo
--run npm install
--run npm start
+
+#To Run
+-clone repo__
+-run npm install__
+-run npm start__
